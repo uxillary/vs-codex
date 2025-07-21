@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+out/
+.vscode-test/
+
+# Environment variables
+.env
+
+# VS Code settings (optional, personal)
+.vscode/
+
+# Logs and system files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+
+# OS junk
+.DS_Store
+Thumbs.db
