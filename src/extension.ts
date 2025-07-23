@@ -5,7 +5,7 @@ import { Configuration, OpenAIApi } from 'openai';
 dotenv.config();
 
 export function activate(context: vscode.ExtensionContext) {
-  const disposable = vscode.commands.registerCommand('codex-assist.askCodex', async () => {
+  const disposable = vscode.commands.registerCommand('vs-codex.askCodex', async () => {
     const prompt = await vscode.window.showInputBox({
       prompt: 'Ask Codex something...',
     });

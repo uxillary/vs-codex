@@ -1,6 +1,6 @@
-# codex-assist README
+# vs-codex README
 
-This is the README for your extension "codex-assist". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "vs-codex". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
